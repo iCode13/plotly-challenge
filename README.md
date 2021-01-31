@@ -1,6 +1,8 @@
 # **Plotly Challenge**
 In this project, an interactive dashboard is built using Plotly to explore and visualize the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels. The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
+The deployed dashboard can be viewed at: https://icode13.github.io/plotly-challenge
+
 ## **Screenshots**
 
 ## *Dashboard*
