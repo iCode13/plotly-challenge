@@ -32,4 +32,4 @@ Hulcr, J. et al.(2012) *A Jungle in There: Bacteria in Belly Buttons are Highly 
 * Live Server
 
 ## Contact
-Created by [@iCode13] - please feel free to contact me in case of questions!
+Created by [@iCode13](https://github.com/iCode13) - please feel free to contact me in case of questions!
