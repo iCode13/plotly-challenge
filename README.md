@@ -26,10 +26,10 @@ Hulcr, J. et al.(2012) *A Jungle in There: Bacteria in Belly Buttons are Highly 
 ## Technologies
 * JavaScript
 * Plotly
-* D3
+* D3.js
 * HTML
 * Visual Studio Code
 * Live Server
 
 ## Contact
-Created by [@iCode13](https://github.com/iCode13) - please feel free to contact me in case of questions!
+Created by [@iCode13](https://github.com/iCode13) - please contact with questions/comments.
